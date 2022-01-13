@@ -1,0 +1,21 @@
+.card1{
+    padding-top: 90px;
+
+}
+.card{
+background-color: rgb(65, 32, 92);
+color: white;
+height: 450px;
+width: 1200px;
+margin-left: 70px;
+
+}
+.container{
+    padding-top: 100px;
+}
+.footer{
+    padding-top: 50px;
+    padding-bottom: 30px;
+
+
+}

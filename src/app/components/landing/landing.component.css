@@ -1,0 +1,42 @@
+.navbar{
+    background-color: #fde3f2;
+    padding-left: 100px;
+    padding-right: 150px;
+    padding-bottom:10px;
+    padding-top:10px;
+    }
+
+.body{
+    background-color:  #fde3f2;
+}
+
+.container{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    font-size: xx-large;
+
+}
+
+.container2{
+    padding-bottom: 90px;
+    padding-right: 100px;
+    margin-left: -100px;
+
+}
+
+.container{
+
+    padding-top: 50px;
+
+}
+.container3{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+
+    font-size: large;
+
+}
